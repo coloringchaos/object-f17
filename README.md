@@ -1,1 +1,1 @@
-Course website for ATLS 3519-010/011, Spring 2017.
+Course website for ATLS 3519-020/021/030/031, Fall 2017.
