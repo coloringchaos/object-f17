@@ -11,32 +11,32 @@ feature-img: "img/bg1.jpg"
 
 *For Next Class:*
 
-+ Set up your [Online Documentation Journal]() and email me the link
++ Set up your [Online Documentation Journal](/object-f17/lab1) and email me the link
 + Complete the [Intro Survey]()
-+ Read [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 + Read [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
 <br>
 
-**<span class="date">Tuesday, August 31st</span>** <br> Basic Electronics, Identifying Components, Schematics, Kits
+**<span class="date">Thursday, August 31st</span>** <br> Basic Electronics, Circuits, Switches
 
 *For Next Class:*
 
 + Complete [Lab 1]()
++ Begin reading *There are No Electrons: Electronics for Earthlings* (finish by 1/31)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
-
++ Read [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 
 <hr>
 
 ### Week 2
 
-**Tuesday, September 5th**<br> Using a Multimeter, Switches, Materials, Soldering, Laser Cutting <br> **Due:** <span class="highlight">[Lab 1](/object-f17/lab-1)</span>
+**Tuesday, September 5th**<br> BTU Orientation, Identifying Components, Schematics, Kits<br> **Due:** <span class="highlight">[Lab 1](/object-f17/lab-1)</span>
 
 *For Next Class:*
 
 + Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
 + Read [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
-+ Begin reading *There are No Electrons: Electronics for Earthlings* (finish by 1/31)
++ Read *There are No Electrons: Electronics for Earthlings*
 
 <br>
 

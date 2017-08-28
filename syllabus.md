@@ -7,14 +7,17 @@ feature-img: "img/bg1.jpg"
 
 ## Course Description
 
-**Course:**&nbsp; ATLS-3519-010/011, Spring 2017<br>
-**Time:**&nbsp; Tues / Thurs 11-12:50pm <br>
+**Course:**&nbsp; ATLS-3519-010/011, Fall 2017<br>
+**Section 020/021:**&nbsp; Tues / Thurs 12:30pm - 2:20pm <br>
+**Section 030/031:**&nbsp; Tues / Thurs 3:30pm - 5:20pm <br>
 **Room:**&nbsp; ATLS 113 (BTU Lab)
 
 **Instructor:**&nbsp; Arielle Hein<br>
 **Email:**&nbsp; arielle.hein@colorado.edu<br>
-**Office Hours:**&nbsp; Tuesdays 1-2:30 (walk-in) or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I)<br>
+**Office Hours:**&nbsp; Tuesdays 10-11:30am<br>
 **Office:**&nbsp; ATLS 231C
+
+<!-- [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I) -->
 
 **BTU Lab Things:**<br>
 [BTU Lab Website](http://www.btulab.com/)<br>
@@ -30,24 +33,15 @@ Physical computing takes a hands-on approach, which means that you spend a lot o
 
 *Although programming is required to successfully complete projects and assignments, we will NOT be spending any time on introductory programming concepts. You should already be comfortable with general programming concepts (variables, loops, data types, etc.).*
 
-<!-- ## Class Expectations
-+ Arrive on time.
-+ Turn cell phones off.
-+ Bring your imagination.
-+ Document everything to your blog!
-+ Get comfortable with failure.
-+ You can do this. -->
-
-<!-- This is a fast-paced course with new topics covered every class and each new concept building on top of previous ones. Attendance and class participation are important components of the course. You are encouraged to ask relevant questions, share your thoughts, and work with fellow students. You are expected to spend all class time working on class related projects. Class time should not be used for any other classes or activities.  -->
-
 
 ## Attendance
-Attendance is mandatory. Students are allowed **three absences*** after which their final grade will be reduced by 10% for each additional absence. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence. 
+Attendance is mandatory. Students are allowed **three absences*** after which their final grade will be reduced by 10% for each additional absence. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence.
 
 As unavoidable circumstances might occur, 3 absences are allowed during the semester. Every additional class missed causes a 10% reduction in a student’s final grade. Extreme lateness counts as 1/3 of an absence. You are responsible for all material and announcements made in class. Do not expect me to catch you up for classes you’ve missed -- that’s your responsibility. Critique days are required; an absence that day will impact your grade for that project.
 
 ***ALL absences fall under these three absences*** (this includes minor illnesses and injuries, oversleeping, vacations, job interviews, ski-days, family obligations and situations, etc.) so it is not wise to use them all at the start of the semester. In extreme situations such as major illnesses, death in the family (or close friends), religious observances (see below), or school related absences, please talk or email me *before* your absence.
 
+This is a fast-paced course with new topics covered every class and each new concept building on top of previous ones. Attendance and class participation are important components of the course. You are encouraged to ask relevant questions, share your thoughts, and work with fellow students. You are expected to spend all class time working on class related projects. Class time should not be used for any other classes or activities.
 
 
 ## Participation
@@ -55,7 +49,7 @@ This is an extremely participatory course. You are expected to participate in di
 
 I take critiques very seriously. *Even if your project is not fully completed, it is required that you come to class to give feedback on your classmate's projects*. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
 
-**15% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. 
+**15% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond.
 
 
 ## Grading
@@ -68,12 +62,12 @@ Major projects turned in late will be graded 10% lower for each day that they ar
 *Points will be allocated based on the following distribution pattern:*
 
 |---------------|--------:|
-| Project 1 				| 150 pts |
-| Project 2 				| 250 pts |
-| Labs - 10 total			| 300 pts |
-| Quizzes - 2 total			| 150 pts |
-| Participation             | 150 pts |
-{:.mbtablestyle} 
+| Project 1 				  | 125 pts |
+| Project 2 				  | 225 pts |
+| Labs - 8 total			| 400 pts |
+| Tests - 2 total		  | 150 pts |
+| Participation       | 100 pts |
+{:.mbtablestyle}
 
 <br>
 
@@ -93,10 +87,10 @@ F &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 to 50<br>
 ***You are required to earn a C letter grade or higher in order to continue course work in the TAM program.***
 
 
-## Labs & Quizzes
+## Labs & Tests
 There is a lab activity for nearly every week during the first half of the semester. They are short, simple assignments meant to help you understand the principles discussed in class and become familiar with physical computing technologies. Labs will be graded based on their completeness (turned in on time and meets the assignment’s requirements), technical proficiency (works correctly), documentation (posted to your online journal), and creative application (can you apply the techincal principles in a creative way).
 
-You will take two quizzes over the course of the semester. Both are open-note assessments.
+You will take two tests over the course of the semester.
 
 ## Projects
 You will complete two detailed production assignments over the course of the term. You are expected to push your abilities to produce something that utilizes what you have learned in the class and that is useful in some manner to yourself or the world.
@@ -107,7 +101,7 @@ Projects are graded based on their concept, creativity/design, and technical sop
 ## Readings & Assignments
 Weekly assignments will include relevant readings, videos, and observation exercises. You are expected to document all work to your blog. This includes your successes, failures, reading responses, project ideas and inspirations.
 
-***Readings are mandatory!*** Come to class prepared to discuss any assigned reading materials. You may occasionally be given in-class pop-quizzes about any assigned readings (which would contribute toward your overall participation grade). 
+***Readings are mandatory!*** Come to class prepared to discuss any assigned reading materials. You may occasionally be given in-class pop-quizzes about any assigned readings (which would contribute toward your overall participation grade).
 
 
 ## Blog & Documentation
@@ -122,7 +116,7 @@ Any additional parts or materials required for projects will be your responsibil
 
 
 ## BTU Lab
-This lab is your maker space! In the third week of the semester we will run a lab orientation session during class. After completing this orientation, all enrolled Object students will officially become lab members. 
+This lab is your maker space! In the third week of the semester we will run a lab orientation session during class. After completing this orientation, all enrolled Object students will officially become lab members.
 
 For more about the lab visit [BTUlab.com](http://www.btulab.com/)
 
@@ -150,7 +144,7 @@ ___
 *A full list of CU’s academic policies can be found online at [http://www.colorado.edu/policies](http://www.colorado.edu/policies).*
 
 ## Honor Code
-All work/ideas/code must be original and created for this class. All code should be written from scratch by you - meaning that although some code is repeatable you should never copy and paste code from other sources and then find and replace your content into it. 
+All work/ideas/code must be original and created for this class. All code should be written from scratch by you - meaning that although some code is repeatable you should never copy and paste code from other sources and then find and replace your content into it.
 
 All students of the University of Colorado at Boulder are responsible for knowing and adhering to the academic integrity policy of this institution. Violations of this policy may include: cheating, plagiarism, aid of academic dishonesty, fabrication, lying, bribery, and threatening behavior. All incidents of academic misconduct shall be reported to the Honor Code Council (honor@colorado.edu; 303-735-2273). Students who are found to be in violation of the academic integrity policy will be subject to both academic sanctions from the faculty member and non-academic sanctions (including but not limited to university probation, suspension, or expulsion). Other information on the Honor Code can be found at [http://www.colorado.edu/policies/honor.html](http://www.colorado.edu/policies/honor.html) and at [http://www.colorado.edu/academics/honorcode/](http://www.colorado.edu/academics/honorcode/).
 
