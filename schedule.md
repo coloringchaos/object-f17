@@ -7,11 +7,11 @@ feature-img: "img/bg1.jpg"
 
 ### Week 1
 
-**<span class="date">Tuesday, August 29th</span>** <br> Introductions, Fantasy Device, Expectations, [Online Documentation]()
+**<span class="date">Tuesday, August 29th</span>** <br> Introductions, Fantasy Device, Expectations, [Documentation](/object-f17/blog)
 
 *For Next Class:*
 
-+ Set up your [Online Documentation Journal](/object-f17/lab1) and email me the link
++ Set up your [Online Documentation Journal](/object-f17/blog) and email me the link
 + Complete the [Intro Survey]()
 + Read [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
