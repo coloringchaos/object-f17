@@ -26,7 +26,7 @@ feature-img: "img/bg1.jpg"
 
 + Complete Lab 1
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
-+ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings*
++ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through D2L)
 + Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
 
 <hr>
