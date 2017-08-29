@@ -11,7 +11,7 @@ feature-img: "img/bg1.jpg"
 
 *For Next Class:*
 
-+ Set up your Documentation Journal and write a brief post about the object you made during the class activity. Submit a link to your blog post [here](https://docs.google.com/forms/d/e/1FAIpQLSdkvOkhTp1FimNm-o8jbxRfl2gip6AkCOmc4AGznV8-oRE06w/viewform?usp=sf_link).
++ Set up your Documentation Journal and write a brief post about the object you made during the class activity. Submit a link to your blog  [here](https://docs.google.com/forms/d/e/1FAIpQLSdkvOkhTp1FimNm-o8jbxRfl2gip6AkCOmc4AGznV8-oRE06w/viewform?usp=sf_link).
 + Complete the [Intro Survey](https://docs.google.com/forms/d/e/1FAIpQLScte3sp6Mr1dk5I62C4sSJwy6vG3NQRRXG5okMiqE-4BpJlvQ/viewform?usp=sf_link)
 + Read [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 + Read [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
