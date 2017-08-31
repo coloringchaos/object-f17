@@ -24,7 +24,7 @@ feature-img: "img/bg1.jpg"
 
 *For Next Class:*
 
-+ Complete Lab 1
++ Complete [Lab 1](/object-f17/lab-1)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
 + Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through D2L)
 + Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
@@ -33,7 +33,7 @@ feature-img: "img/bg1.jpg"
 
 ### Week 2
 
-**Tuesday, September 5th**<br>BTU Orientation, Electricity, Schematics, Kits, <br> **Due:** <span class="highlight">[Lab 1]()</span>
+**Tuesday, September 5th**<br>BTU Orientation, Electricity, Schematics, Kits, <br> **Due:** <span class="highlight">[Lab 1](/object-f17/lab-1)</span>
 
 *For Next Class:*
 + Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
