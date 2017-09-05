@@ -40,7 +40,7 @@ feature-img: "img/bg1.jpg"
 + Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
 + Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 + Read Chris Crawford's [What Exactly Is Interactivity](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
-+ Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
++ *Optional* Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
 
 
 <br>
