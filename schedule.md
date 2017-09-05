@@ -48,7 +48,7 @@ feature-img: "img/bg1.jpg"
 
 *For Next Class:*
 
-+ Complete [Lab 2]()
++ Complete [Lab 2](/object-f17/lab-2)
 + Read [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
 + Read [Microcontroller Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
 
@@ -58,7 +58,7 @@ feature-img: "img/bg1.jpg"
 
 ### Week 3
 **Tuesday, September 12th** <br>Microcontrollers, Digital In/Out, Introduce Project 1
-<br>**Due:** <span class="highlight">[Lab 2]()</span>
+<br>**Due:** <span class="highlight">[Lab 2](/object-f17/lab-2)</span>
 
 *For Next Class:*
 
