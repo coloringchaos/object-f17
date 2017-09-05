@@ -20,7 +20,7 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**<span class="date">Thursday, August 31st</span>** <br>Basic Electronics, Circuits, Switches, Series & Parallel, Ohm's Law
+**<span class="date">Thursday, August 31st</span>** <br>Basic Electronics, Simple Circuits Circuits
 
 *For Next Class:*
 
@@ -33,18 +33,18 @@ feature-img: "img/bg1.jpg"
 
 ### Week 2
 
-**Tuesday, September 5th**<br>BTU Orientation, Electricity, Schematics, Kits, <br> **Due:** <span class="highlight">[Lab 1](/object-f17/lab-1)</span>
+**Tuesday, September 5th**<br>BTU Orientation, Schematics, Switches, Series & Parallel, Ohm's Law <br> **Due:** <span class="highlight">[Lab 1](/object-f17/lab-1)</span>
 
 *For Next Class:*
 + Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
 + Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 + Read Chris Crawford's [What Exactly Is Interactivity](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
-+ *Optional:* Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
-<!-- ***TO DO - ADD INTERACTIVITY READINGS**** -->
++ Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
+
 
 <br>
 
-**Thursday, September 7th**<br>Design Discussion, Soldering, Enclosures, Interactivity, Photographing Hardware
+**Thursday, September 7th**<br>Design Discussion, Interactivity, Feedback Loops, Enclosures, Soldering, Photographing Hardware
 
 *For Next Class:*
 
