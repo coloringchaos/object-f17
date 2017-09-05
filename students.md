@@ -26,6 +26,8 @@ feature-img: "img/bg1.jpg"
 [Kenzy O'Neill](https://www.tumblr.com/blog/designinaction)<br>
 [Ryan Good](https://rygo9219.wordpress.com)<br>
 
+<br>
+<br>
 
 ### Section 030/031 T/R 3:30-5:20
 
