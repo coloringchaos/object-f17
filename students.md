@@ -22,8 +22,8 @@ feature-img: "img/bg1.jpg"
 [Keren Megory-Cohen](https://kerenmegorycohen.wordpress.com/)<br>
 Hudson Hohimer<br>
 [Colton Behr](https://coltonbehrobject.wordpress.com/)<br>
-[Tracy Bellehumeur](beefarmgirl.wordpress.com)<br>
-[Kenzy O'Neill](https://www.tumblr.com/blog/designinaction)<br>
+[Tracy Bellehumeur](https://beefarmgirl.wordpress.com)<br>
+[Kenzy O'Neill](https://designinaction.tumblr.com)<br>
 [Ryan Good](https://rygo9219.wordpress.com)<br>
 
 <br>
