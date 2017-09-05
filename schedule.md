@@ -36,7 +36,7 @@ feature-img: "img/bg1.jpg"
 **Tuesday, September 5th**<br>BTU Orientation, Schematics, Switches, Series & Parallel, Ohm's Law <br> **Due:** <span class="highlight">[Lab 1](/object-f17/lab-1)</span>
 
 *For Next Class:*
-+ Submit out [BTU Lab Membership Information](https://docs.google.com/forms/d/e/1FAIpQLSeIiB_mNSUKWU5yj4QyRlgOcB7TDBcx94uzNbGgb3J-fAJZeA/viewform?usp=sf_link)
++ Submit your [BTU Lab Membership Information](https://docs.google.com/forms/d/e/1FAIpQLSeIiB_mNSUKWU5yj4QyRlgOcB7TDBcx94uzNbGgb3J-fAJZeA/viewform?usp=sf_link)
 + Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
 + Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 + Read Chris Crawford's [What Exactly Is Interactivity](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
