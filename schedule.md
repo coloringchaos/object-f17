@@ -45,7 +45,7 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**Thursday, September 7th**<br>Design Discussion, Interactivity, Feedback Loops, Enclosures, Soldering, Photographing Hardware
+**Thursday, September 7th**<br>Circuits, Soldering, Documentation & Photographing Hardware
 
 *For Next Class:*
 
@@ -58,7 +58,7 @@ feature-img: "img/bg1.jpg"
 <hr>
 
 ### Week 3
-**Tuesday, September 12th** <br>Microcontrollers, Digital In/Out, Introduce Project 1
+**Tuesday, September 12th** <br>Design Discussion, Interactivity, Feedback Loops, Microcontrollers, Digital In/Out, Introduce Project 1
 <br>**Due:** <span class="highlight">[Lab 2](/object-f17/lab-2)</span>
 
 *For Next Class:*
