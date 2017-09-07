@@ -52,6 +52,7 @@ feature-img: "img/bg1.jpg"
 + Complete [Lab 2](/object-f17/lab-2)
 + Read [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
 + Read [Microcontroller Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
++ Be prepared to discuss design readings from last class
 
 <!-- **TO DO - ADD MICROCONTROLLER READINGS*** -->
 
