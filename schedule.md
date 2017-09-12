@@ -71,6 +71,7 @@ feature-img: "img/bg1.jpg"
 **Thursday, September 14th** <br>Introduce Project 1, Blog Critique, Analog Input, Sensors, Variable Resistors, Serial Monitor
 
 *For Next Class:*
++ Complete [Lab 3](/object-f17/lab-3)
 + Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
 + Read Chapters 1 and 2 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf)
 + Read Chapter 9 in [Make it So](http://object.ariellehein.com/readings/MakeItSo.pdf)
@@ -80,7 +81,7 @@ feature-img: "img/bg1.jpg"
 ### Week 4
 
 **Tuesday, September 19th**<br>Analog Output, PWM vs. Frequency Modulation
-<br>**Due:** <span class="highlight">[Lab 3]()</span>
+<br>**Due:** <span class="highlight">[Lab 3](/object-f17/lab-3)</span>
 
 
 

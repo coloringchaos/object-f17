@@ -14,7 +14,7 @@ feature-img: "img/bg1.jpg"
 
 **Instructor:**&nbsp; Arielle Hein<br>
 **Email:**&nbsp; arielle.hein@colorado.edu<br>
-**Office Hours:**&nbsp; Tuesdays 10-11:30am<br>
+**Office Hours:**&nbsp; Thursdays 9:30-10:45am<br>
 **Office:**&nbsp; ATLS 231C
 
 **Object Locker Combo:** 418
