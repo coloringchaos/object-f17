@@ -62,6 +62,7 @@ feature-img: "img/bg1.jpg"
 
 *For Next Class:*
 
++ Read [Digital Input and Output](https://itp.nyu.edu/physcomp/lessons/microcontrollers/digital-input-output/)
 + Read [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 + Read [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 + Watch [Sensors 1](https://vimeo.com/102042976) and [Sensors 2](https://vimeo.com/102044250)
