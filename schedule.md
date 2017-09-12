@@ -54,12 +54,10 @@ feature-img: "img/bg1.jpg"
 + Read [Microcontroller Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
 + Be prepared to discuss design readings from last class
 
-<!-- **TO DO - ADD MICROCONTROLLER READINGS*** -->
-
 <hr>
 
 ### Week 3
-**Tuesday, September 12th** <br>Design Discussion, Interactivity, Feedback Loops, Microcontrollers, Digital In/Out, Introduce Project 1
+**Tuesday, September 12th** <br>Design Discussion, Interactivity, Feedback Loops, Microcontrollers, Digital In/Out
 <br>**Due:** <span class="highlight">[Lab 2](/object-f17/lab-2)</span>
 
 *For Next Class:*
@@ -70,7 +68,7 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**Thursday, September 14th** <br>Blog Critique, Analog Input, Sensors, Variable Resistors, Serial Monitor
+**Thursday, September 14th** <br>Introduce Project 1, Blog Critique, Analog Input, Sensors, Variable Resistors, Serial Monitor
 
 *For Next Class:*
 + Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
