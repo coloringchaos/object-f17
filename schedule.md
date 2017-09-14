@@ -63,57 +63,35 @@ feature-img: "img/bg1.jpg"
 *For Next Class:*
 
 + Read [Digital Input and Output](https://itp.nyu.edu/physcomp/lessons/microcontrollers/digital-input-output/)
-+ Read [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
-+ Read [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
-+ Watch [Sensors 1](https://vimeo.com/102042976) and [Sensors 2](https://vimeo.com/102044250)
 
 <br>
 
-**Thursday, September 14th** <br>Introduce Project 1, Blog Critique, Analog Input, Sensors, Variable Resistors, Serial Monitor
+**Thursday, September 14th** <br>Introduce Project 1, Blog Critique, Arduino Development, States, Digital In/Out
 
 *For Next Class:*
 + Complete [Lab 3](/object-f17/lab-3)
-+ Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
-+ Read Chapters 1 and 2 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf)
-+ Read Chapter 9 in [Make it So](http://object.ariellehein.com/readings/MakeItSo.pdf)
++ Complete [Project 1 Proposal]()
++ Read [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
++ Read [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
++ Watch [Sensors 1](https://vimeo.com/102042976) and [Sensors 2](https://vimeo.com/102044250)
+<!-- + Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation) -->
+<!-- + Read Chapters 1 and 2 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf) -->
+<!-- + Read Chapter 9 in [Make it So](http://object.ariellehein.com/readings/MakeItSo.pdf) -->
 
 <hr>
 
 ### Week 4
 
-**Tuesday, September 19th**<br>Analog Output, PWM vs. Frequency Modulation
+**Tuesday, September 19th**<br>Analog Input, Sensors, Variable Resistors, Serial Monitor
 <br>**Due:** <span class="highlight">[Lab 3](/object-f17/lab-3)</span>
+<br>**Due:** <span class="highlight">[Project 1 Proposal]()</span>
 
-
+*For Next Class:*
++ Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
 
 <br>
 
-**Thursday, September 21st**<br>Motors & Actuators
-
-<!--
-*For Next Class:*
-
- -->
-
-<hr>
-
-### Week 5
-
-**Tuesday, September 26th**<br>Project 1 Planning
-<br>**Due:** <span class="highlight">[Lab 4]()</span>
-
-<!-- <br> Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5](/object-spring-17/lab-5)</span>
-
-*For Next Class:*
-
-+ Submit Project 1 Proposal
-+ Work on [Lab 6](/object-spring-17/lab-6)
- -->
-
-
-<br>
-
-**Thursday, September 28th**<br>Simple Mechanisms
+**Thursday, September 21st**<br>Analog Output, PWM vs. Frequency Modulation
 
 *For Next Class:*
 
@@ -121,14 +99,30 @@ feature-img: "img/bg1.jpg"
 
 <hr>
 
+### Week 5
+
+**Tuesday, September 26th**<br>Motors & Actuators
+<br>**Due:** <span class="highlight">[Lab 4]()</span>
+
+
+<!-- *For Next Class:* -->
+
+
+<br>
+
+**Thursday, September 28th**<br>Motors & Actuators
+
+
+<hr>
+
 ### Week 6
 
-**Tuesday, October 3rd**<br>Motors & Actuators
+**Tuesday, October 3rd**<br>Simple Mechanisms
 <br>**Due:** <span class="highlight">[Lab 5]()</span>
 
 <br>
 
-**Thursday, October 5th**<br>Motors & Actuators
+**Thursday, October 5th**<br>Simple Mechanisms
 
 
 <hr>
