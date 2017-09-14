@@ -122,8 +122,8 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**Thursday, October 5th**<br>Simple Mechanisms
-
+**Thursday, October 5th**<br>Simple Mechanisms,
+<br>**Due:** <span class="highlight">[Project 1 Prototype]()</span>
 
 <hr>
 
