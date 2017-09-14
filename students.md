@@ -17,7 +17,7 @@ feature-img: "img/bg1.jpg"
 [Sarah Godine](https://sarahgodineblog.wordpress.com)<br>
 [Sam Leffler](https://sambleffler.tumblr.com/tagged/object)<br>
 [Cicada](https://cicadahacks.wordpress.com)<br>
-[Ryan Good](https://rygo9219.wordpress.com)<br>
+[Ryan Good](https://ryangoodobject.wordpress.com)<br>
 [Dominic Hathaway](https://dphathaway.wordpress.com/)<br>
 [Keren Megory-Cohen](https://kerenmegorycohen.wordpress.com/)<br>
 Hudson Hohimer<br>

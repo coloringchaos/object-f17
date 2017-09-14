@@ -64,7 +64,7 @@ Major projects turned in late will be graded 10% lower for each day that they ar
 *Points will be allocated based on the following distribution pattern:*
 
 |---------------|--------:|
-| Project 1 				  | 125 pts |
+| [Project 1](/object-f17/project-1) 				  | 125 pts |
 | Project 2 				  | 225 pts |
 | Labs - 8 total			| 400 pts |
 | Tests - 2 total		  | 150 pts |
