@@ -41,3 +41,5 @@ Hudson Hohimer<br>
 [Dante Dupont](https://dupontprojectjournal.wordpress.com/)<br>
 [Ria Khan](https://Friakblog.wordpress.com)<br>
 [Susie Gomez](https://sgomezburgos.com/category/object/)<br>
+[Gavin Frausto](gfrausto.wordpress.com/category/blog-2017)<br>
+[Cyron Completo](thefiretruckblog.wordpress.com)

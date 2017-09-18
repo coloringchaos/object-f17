@@ -95,6 +95,7 @@ feature-img: "img/bg1.jpg"
 
 *For Next Class:*
 
++ Complete [Lab 4](/object-f17/lab-4)
 + Watch [Meet the Motors](https://vimeo.com/84274150)
 
 <hr>
@@ -102,7 +103,7 @@ feature-img: "img/bg1.jpg"
 ### Week 5
 
 **Tuesday, September 26th**<br>Motors & Actuators
-<br>**Due:** <span class="highlight">[Lab 4]()</span>
+<br>**Due:** <span class="highlight">[Lab 4](/object-f17/lab-4)</span>
 
 
 <!-- *For Next Class:* -->
@@ -123,7 +124,7 @@ feature-img: "img/bg1.jpg"
 <br>
 
 **Thursday, October 5th**<br>Simple Mechanisms,
-<br>**Due:** <span class="highlight">[Project 1 Prototype]()</span>
+<br>**Due:** <span class="highlight">[Project 1 Prototype](/object-f17/project-1)</span>
 
 <hr>
 
@@ -170,7 +171,7 @@ feature-img: "img/bg1.jpg"
 <br>
 
 **Thursday, October 19th**<br>In-Class Project Critique
-<br>**Due:** <span class="highlight">[Project 1]()</span>
+<br>**Due:** <span class="highlight">[Project 1](/object-f17/project-1)</span>
 
 *Project 1 Documentation* <span class="highlight">*Due end of day Sunday Oct 22nd*</span>
 
