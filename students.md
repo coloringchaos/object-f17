@@ -25,6 +25,7 @@ Hudson Hohimer<br>
 [Tracy Bellehumeur](https://beefarmgirl.wordpress.com)<br>
 [Kenzy O'Neill](https://designinaction.tumblr.com)<br>
 [Ryan Good](https://rygo9219.wordpress.com)<br>
+[Tyler Schad](https://tylermakesthings.wordpress.com/)<br>
 
 <br>
 <br>
