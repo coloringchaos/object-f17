@@ -20,7 +20,7 @@ feature-img: "img/bg1.jpg"
 [Ryan Good](https://ryangoodobject.wordpress.com)<br>
 [Dominic Hathaway](https://dphathaway.wordpress.com/)<br>
 [Keren Megory-Cohen](https://kerenmegorycohen.wordpress.com/)<br>
-Hudson Hohimer<br>
+[Hudson Hohimer](https://objectdesignweb.wordpress.com/)<br>
 [Colton Behr](https://coltonbehrobject.wordpress.com/)<br>
 [Tracy Bellehumeur](https://beefarmgirl.wordpress.com)<br>
 [Kenzy O'Neill](https://designinaction.tumblr.com)<br>
