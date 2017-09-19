@@ -42,5 +42,5 @@ feature-img: "img/bg1.jpg"
 [Dante Dupont](https://dupontprojectjournal.wordpress.com/)<br>
 [Ria Khan](https://Friakblog.wordpress.com)<br>
 [Susie Gomez](https://sgomezburgos.com/category/object/)<br>
-[Gavin Frausto](gfrausto.wordpress.com/category/blog-2017)<br>
-[Cyron Completo](thefiretruckblog.wordpress.com)
+[Gavin Frausto](https://gfrausto.wordpress.com/category/blog-2017)<br>
+[Cyron Completo](https://thefiretruckblog.wordpress.com)
