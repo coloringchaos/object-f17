@@ -102,7 +102,7 @@ feature-img: "img/bg1.jpg"
 
 ### Week 5
 
-**Tuesday, September 26th**<br>Motors & Actuators
+**Tuesday, September 26th**<br>*NO CLASS* - please still submit your homework!
 <br>**Due:** <span class="highlight">[Lab 4](/object-f17/lab-4)</span>
 
 
