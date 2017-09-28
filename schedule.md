@@ -106,8 +106,6 @@ feature-img: "img/bg1.jpg"
 <br>**Due:** <span class="highlight">[Lab 4](/object-f17/lab-4)</span>
 
 
-<!-- *For Next Class:* -->
-
 
 <br>
 
@@ -118,13 +116,13 @@ feature-img: "img/bg1.jpg"
 
 ### Week 6
 
-**Tuesday, October 3rd**<br>Simple Mechanisms
-<br>**Due:** <span class="highlight">[Lab 5]()</span>
+**Tuesday, October 3rd**<br>Motors & Actuators
+<br>**Due:** <span class="highlight">[Project 1 Prototype](/object-f17/project-1)</span>
 
 <br>
 
-**Thursday, October 5th**<br>Simple Mechanisms,
-<br>**Due:** <span class="highlight">[Project 1 Prototype](/object-f17/project-1)</span>
+**Thursday, October 5th**<br>*NO CLASS*
+<br>**Due:** <span class="highlight">[Lab 5]()</span>
 
 <hr>
 
