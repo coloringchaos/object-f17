@@ -121,7 +121,7 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**Thursday, October 5th**<br>*NO CLASS* <br>The Open Source Hardware Summit is taking place in Denver that day. Any students interested in attending should talk with Arielle about attending!
+**Thursday, October 5th**<br>*NO CLASS* <br>The [Open Source Hardware Summit](https://2017.oshwa.org/) is taking place in Denver that day. Any interested students should talk with Arielle about attending!
 <br>**Due:** <span class="highlight">[Lab 5]()</span>
 
 <hr>
