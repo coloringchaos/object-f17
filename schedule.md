@@ -138,29 +138,15 @@ feature-img: "img/bg1.jpg"
 + Read [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
 + Read [Open Source Lab Froward](https://coloringchaos.github.io/object-fall-16/assets/open-source-lab.pdf)
 
-<!-- <br> Project 1 Work Day
-
-*For Next Class:*
-
-+ Prepare Project 1 for playtesting
- -->
 <br>
 
-**Thursday, October 12th**<br>Open Source Hardware, Work Time
-
-<!-- <br> playtesting<br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
-
-*For Next Class:*
-
-+ Work on Project 1 -->
+**Thursday, October 12th**<br>Work Time
 
 <hr>
 
 ### Week 8
 
-**Tuesday, October 17th**<br>Fritzing, Work Time
-
-<!-- <br> Fritzing, Schematics, Circuit Design, Soldering & Protoboards -->
+**Tuesday, October 17th**<br>Open Source Hardware, Fritzing, Schematics, Work Time
 
 *For Next Class:*
 
