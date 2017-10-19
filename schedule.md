@@ -157,13 +157,14 @@ feature-img: "img/bg1.jpg"
 **Thursday, October 19th**<br>In-Class Project Critique
 <br>**Due:** <span class="highlight">[Project 1](/object-f17/project-1)</span>
 
-*Project 1 Documentation* <span class="highlight">*Due end of day Sunday Oct 22nd*</span>
-
 <hr>
 
 ### Week 9
 
 **Tuesday, October 24th**<br>Intro to Serial Communication
+<br>**Due:** <span class="highlight">[Project 1 Documentation](/object-f17/project-1)</span>
+
+<!-- *Project 1 Documentation* <span class="highlight">*Due end of day Sunday Oct 22nd*</span> -->
 
 <!-- <br>Project Critique<br> **Due:** <span class="highlight">[Project 1](/object-spring-17/project-1)</span> -->
 
