@@ -168,7 +168,7 @@ feature-img: "img/bg1.jpg"
 
 + Watch [Analyzer & ASCII](https://vimeo.com/97519477)
 + Watch [DIY Serial Protocol](https://vimeo.com/97520383)
-+ Complete Project 2 Proposal
+<!-- + Complete Project 2 Proposal -->
 
 <br>
 
