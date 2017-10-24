@@ -164,25 +164,16 @@ feature-img: "img/bg1.jpg"
 **Tuesday, October 24th**<br>Intro to Serial Communication
 <br>**Due:** <span class="highlight">[Project 1 Documentation](/object-f17/project-1)</span>
 
-<!-- *Project 1 Documentation* <span class="highlight">*Due end of day Sunday Oct 22nd*</span> -->
+*For Next Class:*
 
-<!-- <br>Project Critique<br> **Due:** <span class="highlight">[Project 1](/object-spring-17/project-1)</span> -->
++ Watch [Analyzer & ASCII](https://vimeo.com/97519477)
++ Watch [DIY Serial Protocol](https://vimeo.com/97520383)
++ Complete Project 2 Proposal
 
 <br>
 
 **Thursday, October 26th**<br>Serial Communication
 
-<!-- <br> Documentation Day
-
-*For Next Class:*
-
-+ Watch [Meet the Motors](https://vimeo.com/84274150)
-+ Read [Tom Igoe's Notes on Steppers](http://www.tigoe.net/pcomp/code/circuits/motors/stepper-motors/)
-+ Read [DC Motors: The Basics](https://itp.nyu.edu/physcomp/lessons/dc-motors/dc-motors-the-basics/)
-
-<br>
-
-**Due end-of-day Friday 3.17** <span class="highlight">[Project 1 Documentation](/object-spring-17/project-1)</span> -->
 
 <hr>
 
@@ -191,18 +182,11 @@ feature-img: "img/bg1.jpg"
 **Tuesday, October 31st**<br>Serial Communication
 <br>**Due:** <span class="highlight">[Lab 6]()</span>
 
-<!-- <br> Final Project Discussion, Actuators, DC Motors, Steppers, H-Bridge
-
-*For Next Class:*
-
-+ Complete [Lab 7](/object-spring-17/lab-7) -->
 
 <br>
 
 **Thursday, November 2nd**<br>Serial Communication
 
-<!-- <br>More Motors<br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
- -->
 <hr>
 
 ### Week 11
@@ -221,14 +205,6 @@ feature-img: "img/bg1.jpg"
 **Tuesday, November 14th**<br>Other Protocols
 
 
-<!-- <br> Introduction to Serial Communication with p5.js, Project 2 Discussion
-
-*For Next Class:*
-
-+ Watch [Analyzer & ASCII](https://vimeo.com/97519477)
-+ Watch [DIY Serial Protocol](https://vimeo.com/97520383)
-+ Complete Project 2 Proposal
- -->
 <br>
 
 **Thursday, November 16th**<br>Networks
