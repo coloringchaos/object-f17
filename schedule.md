@@ -168,7 +168,6 @@ feature-img: "img/bg1.jpg"
 
 + Watch [Analyzer & ASCII](https://vimeo.com/97519477)
 + Watch [DIY Serial Protocol](https://vimeo.com/97520383)
-<!-- + Complete Project 2 Proposal -->
 
 <br>
 
@@ -180,13 +179,13 @@ feature-img: "img/bg1.jpg"
 ### Week 10
 
 **Tuesday, October 31st**<br>Serial Communication
-<br>**Due:** <span class="highlight">[Lab 6]()</span>
+<br>**Due:** <span class="highlight">[Lab 6](/object-f17/lab-6)</span>
 
 
 <br>
 
 **Thursday, November 2nd**<br>Serial Communication
-
+<br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
 <hr>
 
 ### Week 11
@@ -210,12 +209,6 @@ feature-img: "img/bg1.jpg"
 **Thursday, November 16th**<br>Networks
 <br>**Due:** <span class="highlight">[Lab 8]()</span>
 
-<!-- <br> Serial Communication <br>**Due:** <span class="highlight">[Project 2 Proposal](/object-spring-17/p2-proposal)</span>
-
-*For Next Class:*
-
-+ Complete [Lab 8](/object-spring-17/lab-8)
- -->
 <hr>
 
 ### Week 13 - FALL BREAK
