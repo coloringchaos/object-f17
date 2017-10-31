@@ -179,12 +179,11 @@ feature-img: "img/bg1.jpg"
 ### Week 10
 
 **Tuesday, October 31st**<br>Serial Communication
-<br>**Due:** <span class="highlight">[Lab 6](/object-f17/lab-6)</span>
-
 
 <br>
 
 **Thursday, November 2nd**<br>Serial Communication
+<br>**Due:** <span class="highlight">[Lab 6](/object-f17/lab-6)</span>
 <br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
 <hr>
 
