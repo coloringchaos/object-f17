@@ -184,7 +184,7 @@ feature-img: "img/bg1.jpg"
 
 **Thursday, November 2nd**<br>Serial Communication
 <br>**Due:** <span class="highlight">[Lab 6](/object-f17/lab-6)</span>
-<br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
+<br>**Due:** <span class="highlight">[Project 2 Proposal](/object-f17/p2-proposal)</span>
 <hr>
 
 ### Week 11
