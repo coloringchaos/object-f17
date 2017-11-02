@@ -205,7 +205,7 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**Thursday, November 16th**<br>***NO CLASS***
+**Thursday, November 16th** - ***NO CLASS***
 <br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <hr>
