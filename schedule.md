@@ -190,7 +190,7 @@ feature-img: "img/bg1.jpg"
 ### Week 11
 
 **Tuesday, November 7th** <br>Wireless Communication
-<br>**Due:** <span class="highlight">[Lab 7]()</span>
+<br>**Due:** <span class="highlight">[Lab 7](/object-f17/lab-7)</span>
 
 <br>
 
@@ -205,7 +205,7 @@ feature-img: "img/bg1.jpg"
 
 <br>
 
-**Thursday, November 16th**<br>Networks
+**Thursday, November 16th**<br>***NO CLASS***
 <br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <hr>
