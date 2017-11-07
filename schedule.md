@@ -189,24 +189,23 @@ feature-img: "img/bg1.jpg"
 
 ### Week 11
 
-**Tuesday, November 7th** <br>Wireless Communication
+**Tuesday, November 7th** <br>Project 1 Discussion
 <br>**Due:** <span class="highlight">[Lab 7](/object-f17/lab-7)</span>
 
 <br>
 
-**Thursday, November 9th**<br>Wireless Communication
+**Thursday, November 9th**<br>Open Source Hardware, Wireless Communication, Other Protocols, Helpful Project Things
 
 <hr>
 
 ### Week 12
 
-**Tuesday, November 14th**<br>Other Protocols
-
+**Tuesday, November 14th**<br>Project Discussion, Prototype Presentations
+<br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <br>
 
 **Thursday, November 16th** - ***NO CLASS***
-<br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <hr>
 
