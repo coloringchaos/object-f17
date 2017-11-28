@@ -74,9 +74,6 @@ feature-img: "img/bg1.jpg"
 + Read [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 + Read [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 + Watch [Sensors 1](https://vimeo.com/102042976) and [Sensors 2](https://vimeo.com/102044250)
-<!-- + Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation) -->
-<!-- + Read Chapters 1 and 2 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf) -->
-<!-- + Read Chapter 9 in [Make it So](http://object.ariellehein.com/readings/MakeItSo.pdf) -->
 
 <hr>
 
@@ -253,7 +250,7 @@ feature-img: "img/bg1.jpg"
 
 ### Finals Week
 
-**Sunday, December 17th**<br> 
-<br>**Due:** <span class="highlight">[Project 2 Documentation](/object-f17/project-1)</span> - due by 11:59pm
+**Sunday, December 17th**<br>
+**Due:** <span class="highlight">[Project 2 Documentation](/object-f17/project-1)</span> submit on D2L by 11:59pm
 
 *We will not meet in person during Finals Week*
