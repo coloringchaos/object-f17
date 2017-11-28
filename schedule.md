@@ -226,14 +226,13 @@ feature-img: "img/bg1.jpg"
 
 **Thursday, November 30th**<br>Datalogging, Networked Sensors
 
-<!-- <br> **In Class:** <span class="highlight">[Project 2 Playtesting](/object-spring-17/project-2)</span> -->
 
 <hr>
 
 ### Week 15
 
 **Tuesday, December 5th**<br>Topics Based on Student Interest
-
+<br>**Due:** <span class="highlight">[Project 2 Playtesting](/object-f17/project-2)</span>
 <br>
 
 **Thursday, December 7th**<br> Work Day
@@ -247,13 +246,14 @@ feature-img: "img/bg1.jpg"
 <br>
 
 **Thursday, December 14th**<br>Project Critique
+<br>**Due:** <span class="highlight">[Project 2](/object-f17/project-1)</span>
 
-<!-- [provide peer feedback](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSeMEuQhUmUXMQPz9sp131NZ8hGeM_NMgQw5UHQkJHp6Xh5yLA/viewform)<br> **Due:** <span class="highlight">[Project 2](/object-spring-17/project-2)</span> -->
 
 <hr>
 
 ### Finals Week
 
-<!-- **Sunday, May 7th** <br> **Due:** <span class="highlight">[Project 2 Documentation](/object-spring-17/project-2)</span> - due by the end of the day
+**Sunday, December 17th**<br> 
+<br>**Due:** <span class="highlight">[Project 2 Documentation](/object-f17/project-1)</span> - due by 11:59pm
 
-*We will not meet in person during Finals Week* -->
+*We will not meet in person during Finals Week*
