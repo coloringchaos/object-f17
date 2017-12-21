@@ -13,7 +13,7 @@ feature-img: "img/bg1.jpg"
 [Varun Narayanswamy](http://varunnarayanswamyobject.weebly.com/)<br>
 [Angie Eng](http://angieeng.com/blog/?page_id=3022)<br>
 [Rachel Wood](https://rachelobjectblog.wordpress.com/)<br>
-[Toby Wu](https://tobywuobject.tumblr.com/)<br>
+[Toby Wu](https://tobywuprojectblog.wordpress.com/)<br>
 [Sarah Godine](https://sarahgodineblog.wordpress.com)<br>
 [Sam Leffler](https://sambleffler.tumblr.com/tagged/object)<br>
 [Cicada](https://cicadahacks.wordpress.com)<br>
