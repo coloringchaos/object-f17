@@ -14,7 +14,7 @@ feature-img: "img/bg1.jpg"
 [Angie Eng](http://angieeng.com/blog/?page_id=3022)<br>
 [Rachel Wood](https://rachelobjectblog.wordpress.com/)<br>
 [Toby Wu](https://tobywuprojectblog.wordpress.com/)<br>
-[Sarah Godine](https://sarahgodineblog.wordpress.com)<br>
+[Sarah Godine](http://creative.colorado.edu/~sago7713/web/object.html)<br>
 [Sam Leffler](https://sambleffler.tumblr.com/tagged/object)<br>
 [Cicada](https://cicadahacks.wordpress.com)<br>
 [Ryan Good](https://ryangoodobject.wordpress.com)<br>
